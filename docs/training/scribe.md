@@ -15,7 +15,7 @@ Your job as is to listen to the call and to watch the incident Slack room, keepi
 Before you can be a Scribe, it is expected that you meet the following criteria. Don't worry if you don't meet them all yet, you can still continue with training!
 
 * Excellent verbal and written **communication skills**.
-* Has **knowledge of obscure PagerDuty terms**.
+* Has **knowledge of obscure PagerTree terms**.
 
 ## Responsibilities
 Read up on our [Different Roles for Incidents](/before/different_roles.md) to see what is expected from a Scribe, as well as what we expect from the other roles you'll be interacting with.
@@ -25,7 +25,7 @@ There is no formal training process for this role, reading this page should be s
 
 * Read the rest of this page, particularly the sections below.
 
-* Participate in [Failure Friday](https://www.pagerduty.com/blog/failure-friday-at-pagerduty/) (FF).
+* Participate in [Failure Friday](https://www.pagertree.com/blog/failure-friday-at-pagerduty/) (FF).
     * Shadow a FF to see how it's run.
     * Be the scribe for multiple FF's.
 

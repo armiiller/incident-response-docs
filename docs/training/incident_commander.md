@@ -6,7 +6,7 @@ So you want to be an incident commander? You've come to the right place! You don
 ## Purpose
 If you could boil down the definition of an Incident Commander to one sentence, it would be,
 
-> Take whatever actions are necessary to protect PagerDuty systems and customers.
+> Take whatever actions are necessary to protect PagerTree systems and customers.
 
 The purpose of the Incident Commander is to be the decision maker during an major incident; Delegating tasks and listening to input from subject matter experts in order to bring the incident to resolution.
 
@@ -17,10 +17,10 @@ Your job as an IC is to listen to the call and to watch the incident Slack room 
 ## Prerequisites
 Before you can be an Incident Commander, it is expected that you meet the following criteria. Don't worry if you don't meet them all yet, you can still continue with training!
 
-* Has **excellent knowledge of PagerDuty systems** and is able to quickly evaluate good vs bad options, and quickly identify what's actually going on.
-* Been at PagerDuty for at least 6 months and has a **solid understanding of the incident notification pipeline and web stack**.
+* Has **excellent knowledge of PagerTree systems** and is able to quickly evaluate good vs bad options, and quickly identify what's actually going on.
+* Been at PagerTree for at least 6 months and has a **solid understanding of the incident notification pipeline and web stack**.
 * Excellent verbal and written **communication skills**.
-* Has **knowledge of obscure PagerDuty terms**.
+* Has **knowledge of obscure PagerTree terms**.
 * Has gravitas and is **willing to kick people off a call** to remove distractions, even if it's the CEO.
 
 ## Responsibilities
@@ -48,7 +48,7 @@ The process is fairly loose for now. Here's a list of things you can do to train
 
 * Read the rest of this page, particularly the sections below.
 
-* Participate in [Failure Friday](https://www.pagerduty.com/blog/failure-friday-at-pagerduty/) (FF).
+* Participate in [Failure Friday](https://www.pagertree.com/blog/failure-friday-at-pagerduty/) (FF).
     * Shadow a FF to see how it's run.
     * Be the scribe for multiple FF's.
     * Be the incident commander for multiple FF's.
@@ -232,7 +232,7 @@ At the end of an incident, you should announce to everyone on the call that you 
 > Ok everyone, we're ending the call at this time. Please continue any followup discussion on Slack. Thanks everyone.
 
 ## Examples From Pop Culture
-PagerDuty employees have access to all previous incident calls, and can listen to them at their discretion. We can't release these calls, so for everyone else, here are some short examples from popular culture to show the techniques at work.
+PagerTree employees have access to all previous incident calls, and can listen to them at their discretion. We can't release these calls, so for everyone else, here are some short examples from popular culture to show the techniques at work.
 
 ---
 

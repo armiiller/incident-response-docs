@@ -3,9 +3,9 @@ A summary of expectations and helpful information for being on-call.
 ![Alert Fatigue](../assets/img/misc/alert_fatigue.png)
 
 ## What is On-Call?
-Being on-call means that you are able to be contacted at any time in order to investigate and fix issues that may arise for the system you are responsible for. For example, if you are on-call for your service at PagerDuty, should any alarms be triggered for that service, you will receive a "page" (an alert on your mobile device, email, phone call, or SMS, etc.) giving you details on what has broken and how to fix it. You will be expected to take whatever actions are necessary in order to resolve the issue and return your service to a normal state.
+Being on-call means that you are able to be contacted at any time in order to investigate and fix issues that may arise for the system you are responsible for. For example, if you are on-call for your service at PagerTree, should any alarms be triggered for that service, you will receive a "page" (an alert on your mobile device, email, phone call, or SMS, etc.) giving you details on what has broken and how to fix it. You will be expected to take whatever actions are necessary in order to resolve the issue and return your service to a normal state.
 
-On-call responsibilities extend beyond normal office hours, and if you are on-call you are expected to be able to respond to issues, even at 2am. This sounds horrible (and it can be), but this is what our customers go through, and is the problem that the PagerDuty product itself is trying to fix!
+On-call responsibilities extend beyond normal office hours, and if you are on-call you are expected to be able to respond to issues, even at 2am. This sounds horrible (and it can be), but this is what our customers go through, and is the problem that the PagerTree product itself is trying to fix!
 
 ## Responsibilities
 
@@ -13,7 +13,7 @@ On-call responsibilities extend beyond normal office hours, and if you are on-ca
     * Have your laptop and Internet with you (office, home, a MiFi dongle, a phone with a tethering plan, etc).
         * Have a way to charge your MiFi.
     * Team alert escalation happens within 5 minutes, set/stagger your notification timeouts (push, SMS, phone...) accordingly.
-        * Make sure PagerDuty texts and calls can [bypass your "Do Not Disturb" settings](https://support.pagerduty.com/hc/en-us/articles/202828870-Phone-numbers-notifications-are-sent-from).
+        * Make sure PagerTree texts and calls can [bypass your "Do Not Disturb" settings](https://support.pagertree.com/hc/en-us/articles/202828870-Phone-numbers-notifications-are-sent-from).
     * Be prepared (environment is set up, a current working copy of the necessary repos is local and functioning, you have configured and tested environments on workstations, your credentials for third-party services are current and so on...)
     * Read our Incident Response documentation (that's this!) to understand how we handle serious incidents, what the different roles and methods of communication are, etc.
     * Be aware of your upcoming on-call time (primary, backup) and arrange swaps around travel, vacations, appointments etc.

@@ -3,14 +3,14 @@
   font-family: 'Colfax Regular';
   font-style: normal;
   font-weight: 400;
-  src: local('ColfaxRegular'), url(https://www.pagerduty.com/wp-content/themes/startit-child/fonts/ColfaxWebRegular.woff) format('woff2');
+  src: local('ColfaxRegular'), url(https://www.pagertree.com/wp-content/themes/startit-child/fonts/ColfaxWebRegular.woff) format('woff2');
 }
 
 @font-face {
   font-family: 'Colfax Light';
   font-style: normal;
   font-weight: 100;
-  src: local('ColfaxRegular'), url(https://www.pagerduty.com/wp-content/themes/startit-child/fonts/ColfaxWebLight.woff) format('woff2');
+  src: local('ColfaxRegular'), url(https://www.pagertree.com/wp-content/themes/startit-child/fonts/ColfaxWebLight.woff) format('woff2');
 }
 
 /* Defaults */
@@ -19,16 +19,16 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-/* Change the colour theme to better match PagerDuty */
+/* Change the colour theme to better match PagerTree */
 
 /* background: pd-green */
 .repo a {
-  background: #25c151;
+  background: #2daee4;
 }
 
 @media only screen and (max-width: 959px) {
   .palette-primary-green .project {
-    background: #25c151;
+    background: #2daee4;
   }
 }
 
@@ -38,7 +38,7 @@ body {
 .palette-primary-green .header,
 .palette-primary-green .results .meta,
 .palette-primary-green .article table th {
-  background: #1f293a;
+  background: #4c4c4e;
 }
 
 .palette-primary-green .article table th {
@@ -52,7 +52,7 @@ body {
 .palette-primary-green .drawer .toc a:focus,
 .palette-primary-green .drawer .toc a:hover,
 .palette-primary-green .article a:hover {
-  color: #25c151;
+  color: #2daee4;
 }
 
 /* font: pd-navy */
@@ -65,7 +65,7 @@ body {
 
 /* Selected nav section */
 .palette-primary-green .drawer .anchor a {
-  border-left: 3px solid #25c151;
+  border-left: 3px solid #2daee4;
 }
 
 /* Hide the page title, already in the navbar */
@@ -139,7 +139,7 @@ ul, ol {
   height: 2em;
   left: 0px;
   top: 0.5em;
-  border-left: 5px solid #25c151;
+  border-left: 5px solid #2daee4;
   transform: scaleY(0);
   transition: transform 250ms ease-in-out;
 }
@@ -182,7 +182,7 @@ nav div.mainlogo img {
 
 /* Admonition */
 .admonition {
-  background: #25c151;
+  background: #2daee4;
 }
 .admonition.info {
   background: #f5a623;
@@ -225,7 +225,7 @@ code {
 /* Icons */
 .button .icon:hover {
   transition: color 250ms ease-in-out;
-  color: #25c151;
+  color: #2daee4;
 }
 
 /* Images */

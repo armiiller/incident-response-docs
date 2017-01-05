@@ -86,4 +86,4 @@ The first step in any incident response process is to determine what actually co
 </table>
 
 !!! note "Be Specific"
-    These severity descriptions have been changed from the PagerDuty internal definitions to be more generic. For your own documentation, you are encouraged to make your definitions very specific, usually referring to a % of users/accounts affected. You will usually want your severity definitions to be metric driven.
+    These severity descriptions have been changed from the PagerTree internal definitions to be more generic. For your own documentation, you are encouraged to make your definitions very specific, usually referring to a % of users/accounts affected. You will usually want your severity definitions to be metric driven.

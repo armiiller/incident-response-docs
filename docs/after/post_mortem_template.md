@@ -1,4 +1,4 @@
-This is a standard template we use for post-mortems at PagerDuty. Each section describes the type of information you will want to put in that section.
+This is a standard template we use for post-mortems at PagerTree. Each section describes the type of information you will want to put in that section.
 
 ---
 
@@ -70,7 +70,7 @@ _This is a follow-up for employees. It should be sent out right after the post-m
 > Briefly summarize what happened and where the post-mortem page (this page) can be found.
 
 ### External Message
-_This is what will be included on the status.pagerduty.com website regarding this incident. What are we telling customers, including an apology? (The apology should be genuine, not rote.)_
+_This is what will be included on the status.pagertree.com website regarding this incident. What are we telling customers, including an apology? (The apology should be genuine, not rote.)_
 
 > Summary
 
